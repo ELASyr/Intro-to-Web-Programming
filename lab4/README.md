@@ -24,12 +24,13 @@ and HTML templates.
 
 ```
 
-\## Screenshot
+## Screenshot
 
 
 
 Example of dynamic route `/hello/<name>`:
-![Hello Route Screenshot](screenshots/Screenshot of Page.png)
+![Hello Route Screenshot](screenshots/Screenshot%20of%20Page.png)
+
 
 
 
